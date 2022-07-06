@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 import "./IERC721.sol";
 
-contract Signup {
+contract Flamingle {
     uint256 public counter;
     uint16 public platformCut = 10;
     address public owner;
