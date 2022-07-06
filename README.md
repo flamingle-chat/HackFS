@@ -1,10 +1,8 @@
 # Flamingle.Events
 
-### We are a Web3 event app that incentivizes attendence by staking.
+### We are a Web3 Social App based on In-Real-Life Events.
 
-Check out our live demo [here](https://flamingle.events)(https://flamingle.events)! 
-
-Demo Video [Link](https://youtu.be/51fg615LLEk)
+Demo Video [Link](https://www.youtube.com/watch?v=v3k1f27uWkE)
 
 ## Team
 Julie Shi jyshi1107@gmail.com
