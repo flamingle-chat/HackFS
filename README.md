@@ -1,4 +1,5 @@
 # Flamingle.Events
+Winner at Mega Hackathon 2022
 
 ### We are a Web3 Social App based on In-Real-Life Events.
 
