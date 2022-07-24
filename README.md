@@ -1,5 +1,4 @@
 # Flamingle.Events
-Winner at Mega Hackathon 2022 https://dorahacks.io/hackathon/23/
 
 ### We are a Web3 Social App based on In-Real-Life Events.
 
